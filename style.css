@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    width: 1000px;
+    height: 1000px;
+    flex: 0;
+    flex-wrap: wrap;
+}
+
+.header {
+    height: 100px;
+    width: 100%;
+}
+
+.grid-square {
+    box-sizing: border-box;
+    border: solid black 1px;
+}
